@@ -111,4 +111,3 @@ I’m also recognized for leadership and collaboration, currently serving as **V
 
 ---
 
-### 🖤 *“Made with Data, Code, and Passion.”*
