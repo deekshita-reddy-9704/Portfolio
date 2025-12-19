@@ -18,8 +18,8 @@
 
 | 📖 **Title** | 🏫 **Institution / Issuer** | 📊 **Score / Rank** | 🏆 **Certificate / Achievement** |
 |------------------------------|------------------------|-------------------|--------------------------------|
-| Data Science – Domain Scholar | NPTEL | — | Recognition for outstanding performance in Data Science |
-| Computer Science & Engineering – Discipline Star | NPTEL | — | Recognition for consistent excellence in CSE |
+| Data Science – Domain Scholar | NPTEL | 60+ weeks | Recognition for outstanding performance in Data Science |
+| Computer Science & Engineering – Discipline Star | NPTEL | 50+weeks | Recognition for consistent excellence in CSE |
 | TCS CodeVita Season 12 | TCS | Global Rank: 1624 | Top Global Performer |
 | Acquiring, Data Processing & Visualization | NASSCOM – Accenture | — | Completion of industry-focused data course |
-| GATE 2025 – Data Science & AI (DA) | IIT Ropar | Qualified | Successful qualification in DA & AI paper |
+| GATE 2025 – Data Science & AI (DA) | IIT Ropar | Qualified | Successful qualification in DA paper |
